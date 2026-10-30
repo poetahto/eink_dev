@@ -1,6 +1,6 @@
 ## Documentation
 
-- [Store page] (https://www.elecrow.com/crowpanel-esp32-2-13-e-paper-hmi-display-with-122-250-resolution-black-white-color-driven-by-spi-interface.html?r=cmVsYXRl)
+- [Store page](https://www.elecrow.com/crowpanel-esp32-2-13-e-paper-hmi-display-with-122-250-resolution-black-white-color-driven-by-spi-interface.html?r=cmVsYXRl)
 - [Technical wiki](https://www.elecrow.com/wiki/CrowPanel_ESP32_E-Paper_HMI_2.13-inch_Display.html)
 - [Github Docs+Examples](https://github.com/Elecrow-RD/CrowPanel-ESP32-2.13-E-paper-HMI-Display-with-122-250)
 
@@ -11,11 +11,11 @@ working, so use those as reference!
 
 ## Building: ESP-IDF
 
-[https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html]
-This is the official devkit for working on ESP32 chips. The documentation
-seems very comprehensive! It was pretty easy to set up: after downloading
-their installer, you can just run their Developer command prompt and 
-all of the following commands "just work", no other config needed.
+This is the (official devkit)[https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html] 
+for working on ESP32 chips. The documentation seems very comprehensive! 
+It was pretty easy to set up: after downloading their installer, you can 
+just run their Developer command prompt and all of the following commands 
+"just work", no other config needed.
 
 All commands go through the `idf.py` executable with the following modes:
 
