@@ -11,7 +11,7 @@ working, so use those as reference!
 
 ## Building: ESP-IDF
 
-This is the (official devkit)[https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html] 
+This is the [official devkit](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html) 
 for working on ESP32 chips. The documentation seems very comprehensive! 
 It was pretty easy to set up: after downloading their installer, you can 
 just run their Developer command prompt and all of the following commands 
